@@ -1,12 +1,6 @@
 [submodule "jedi-vim"]
 	path = jedi-vim
 	url = git://github.com/davidhalter/jedi-vim.git
-[submodule "pep8"]
-	path = pep8
-	url = https://github.com/vim-scripts/pep8.git
-[submodule "pyflakes-pathogen"]
-	path = pyflakes-pathogen
-	url = https://github.com/mitechie/pyflakes-pathogen.git
 [submodule "python-mode"]
 	path = python-mode
 	url = git://github.com/klen/python-mode.git
@@ -22,3 +16,6 @@
 [submodule "vim-indent-guides"]
 	path = vim-indent-guides
 	url = git://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "vim-flake8"]
+	path = vim-flake8
+	url = git://github.com/nvie/vim-flake8.git
