@@ -22,3 +22,9 @@
 [submodule "vim-colors-solarized"]
 	path = vim-colors-solarized
 	url = git@github.com:altercation/vim-colors-solarized.git
+[submodule "golang"]
+	path = golang
+	url = git@github.com:jnwhiteh/vim-golang.git
+[submodule "gocode"]
+	path = gocode
+	url = git@github.com:Blackrush/vim-gocode.git
